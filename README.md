@@ -148,5 +148,4 @@ ev-charging-prediction/
 ├── ESO_SHOSHO_FE__1_.ipynb   # Main notebook
 ├── Final_Data.csv             # Dataset (add to .gitignore)
 ├── README.md
-└── figures/                   # Output plots (generated on run)
 ```
